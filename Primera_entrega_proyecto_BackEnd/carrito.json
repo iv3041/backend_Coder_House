@@ -1,0 +1,67 @@
+[
+  {
+    "id_pro": 2,
+    "id": 1,
+    "products": []
+  },
+  {
+    "id_pro": 4,
+    "id": 5,
+    "products": []
+  },
+  {
+    "id_pro": 6,
+    "id": 6,
+    "products": [
+      {
+        "id_pro": 1,
+        "title": "iphone 7",
+        "description":"Telefono de apple",
+        "code": "Apple-001",
+        "price": 590000,
+        "status": true,
+        "stock": 24,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone7"
+      },
+      {
+        "id_pro": 3,
+        "title": "iphone X",
+        "description":"Telefono de apple",
+        "code": "Apple-003",
+        "price": 1090000,
+        "status": true,
+        "stock": 12,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphonex"
+      }
+    ]
+  },
+  {
+    "id_pro": 8,
+    "id": 7,
+    "products": [
+      {
+      "id_pro": 7,
+      "title": "iphone 14",
+      "description":"Telefono de apple",
+      "code": "Apple-007",
+      "price": 6190000,
+      "status": true,
+      "stock": 55,
+      "category": "iphone",
+      "thumbnails": "apple.com/iphone14"
+    }
+    ]
+  },
+  {
+    "id_pro": 9,
+    "id": 8,
+    "products": []
+  },
+  {
+    "id_pro": 10,
+    "id": 9,
+    "products": []
+  }
+]

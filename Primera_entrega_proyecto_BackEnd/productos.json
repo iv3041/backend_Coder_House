@@ -1,0 +1,112 @@
+[
+    {
+        "id_pro": 1,
+        "title": "iphone 7",
+        "description":"Telefono de apple",
+        "code": "Apple-001",
+        "price": 590000,
+        "status": true,
+        "stock": 24,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone7"
+    },
+    {
+        "id_pro": 2,
+        "title": "iphone 8",
+        "description":"Telefono de apple",
+        "code": "Apple-002",
+        "price": 900000,
+        "status": true,
+        "stock": 4,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone8"
+    },
+    {
+        "id_pro": 3,
+        "title": "iphone X",
+        "description":"Telefono de apple",
+        "code": "Apple-003",
+        "price": 1090000,
+        "status": true,
+        "stock": 12,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphonex"
+    },
+    {
+        "id_pro": 4,
+        "title": "iphone 11",
+        "description":"Telefono de apple",
+        "code": "Apple-004",
+        "price": 1730000,
+        "status": true,
+        "stock": 34,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone11"
+    },
+    {
+        "id_pro": 5,
+        "title": "iphone 12",
+        "description":"Telefono de apple",
+        "code": "Apple-005",
+        "price": 2300000,
+        "status": true,
+        "stock": 13,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone12"
+    },
+    {
+        "id_pro": 6,
+        "title": "iphone 13",
+        "description":"Telefono de apple",
+        "code": "Apple-006",
+        "price": 4590000,
+        "status": true,
+        "stock": 41,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone13"
+    },
+    {
+        "id_pro": 7,
+        "title": "iphone 14",
+        "description":"Telefono de apple",
+        "code": "Apple-007",
+        "price": 6190000,
+        "status": true,
+        "stock": 55,
+        "category": "iphone",
+        "thumbnails": "apple.com/iphone14"
+    },
+    {
+        "id_pro": 8,
+        "title": "ipad",
+        "description":"Tablet de apple",
+        "code": "Apple-008",
+        "price": 1590000,
+        "status": true,
+        "stock": 7,
+        "category": "ipad",
+        "thumbnails": "apple.com/ipad"
+    },
+    {
+        "id_pro": 9,
+        "title": "ipad mini",
+        "description":"Tablet de apple",
+        "code": "Apple-009",
+        "price": 990000,
+        "status": true,
+        "stock": 14,
+        "category": "ipad",
+        "thumbnails": "apple.com/ipadmini"
+    },
+    {
+        "id_pro": 10,
+        "title": "ipad pro",
+        "description":"Tablet de apple",
+        "code": "Apple-010",
+        "price": 1590000,
+        "status": true,
+        "stock": 22,
+        "category": "ipad",
+        "thumbnails": "apple.com/ipadpro"
+    }
+]
